@@ -1,0 +1,40 @@
+body{
+  background: linear-gradient(silver, white);
+  background-repeat: no-repeat;
+}
+
+.main-container{
+  text-align: center;
+}
+
+.titulo{
+  font-family: 'Inria Sans', sans-serif;
+}
+
+.subtitulo{
+  font-family: 'Roboto', sans-serif;
+  font-size: 22px;
+}
+
+.fonteNotas{
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+}
+
+.input-valor{
+  width: 5%;
+  padding: 5px 10px;
+}
+
+.botao{
+ margin-top: 20px;
+ background-color: black;
+ color: white;
+ font-weight: bold;
+ font-size: 20px
+ 
+}
+
+.botao:hover{
+  color: yellow;
+}
