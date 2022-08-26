@@ -1,6 +1,6 @@
 body{
-  background: linear-gradient(silver, white);
-  background-repeat: no-repeat;
+  background-image: url(img/imagem.jpg);
+  background-size: cover;
 }
 
 .main-container{
@@ -32,7 +32,6 @@ body{
  color: white;
  font-weight: bold;
  font-size: 20px
- 
 }
 
 .botao:hover{
